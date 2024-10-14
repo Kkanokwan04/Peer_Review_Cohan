@@ -57,5 +57,6 @@ public class WeatherServer {
         weatherReports[1][0] = new WeatherReport(new Date(), "60F, overcast, moderate rain");
         weatherReports[1][1] = new WeatherReport(new Date(), "58F, windy, heavy rain");
     }
+
 }
 

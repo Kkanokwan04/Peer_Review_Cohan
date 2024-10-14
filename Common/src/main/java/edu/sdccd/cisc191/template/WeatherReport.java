@@ -22,7 +22,9 @@ class WeatherReport implements Serializable {
 
     @Override
     public String toString() {
+
         return "Weather Report on " + reportDate + ": " + reportDetails;
     }
+
 }
 
